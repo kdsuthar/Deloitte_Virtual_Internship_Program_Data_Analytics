@@ -44,12 +44,9 @@ The dashboard was created using **Tableau Desktop**, and includes:
 > 📍 Findings: The dashboard helped identify the **Shenzhen** factory as having the highest number of breakdowns, and **Machine Type 3** and **Machine Type 7** as the most frequent culprits in that location.
 
 ---
-dashboard/
-└── Deloitte_Task_1_Machine_Performance_Analysis.twb
-images/
-└── dashboard_screenshot.png
-data/
-└── telemetry_data.json # provided upon request. 
+1. dashboard/ Deloitte_Task_1_Machine_Performance_Analysis.twb
+3. images/ dashboard_screenshot.png
+4. data/ telemetry_data.json # provided upon request. 
 
 
 
