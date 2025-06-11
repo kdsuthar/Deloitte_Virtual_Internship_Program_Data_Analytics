@@ -1,5 +1,59 @@
+# Daikibo-Machine-Performance-Analysis-Task_1
+## 📊 Task Overview
 
-# Gender Pay Equality Analysis – Forensic Technology Task
+This project is part of the **Deloitte Data Analytics Virtual Experience** on Forage. The goal was to analyze machine telemetry data collected from multiple factories operated by **Daikibo Industrials** to identify performance issues and downtime patterns.
+
+---
+
+## 🧠 What I Learned
+
+- How to process and analyze telemetry data.
+- How to use **Tableau** to build interactive dashboards.
+- How to identify operational inefficiencies through data visualization.
+
+---
+
+## 🏭 Client Background
+
+Daikibo Industrials operates four global factories:
+- **Meiyo** (Tokyo, Japan)
+- **Seiko** (Osaka, Japan)
+- **Berlin** (Berlin, Germany)
+- **Shenzhen** (Shenzhen, China)
+
+Each location has 9 different machine types, reporting telemetry data every 10 minutes throughout **May 2021**.
+
+---
+
+## 🎯 Client Questions
+
+1. **Which location experienced the most machine breakdowns?**
+2. **Which machines in that location were responsible for most breakdowns?**
+
+---
+
+## 📈 Dashboard Features
+
+The dashboard was created using **Tableau Desktop**, and includes:
+
+- **Location-wise breakdown frequency** chart.
+- **Machine-type breakdown heatmap**.
+- Filters to explore factory-specific data.
+- Time-series line graphs showing breakdown trends over time.
+
+> 📍 Findings: The dashboard helped identify the **Shenzhen** factory as having the highest number of breakdowns, and **Machine Type 3** and **Machine Type 7** as the most frequent culprits in that location.
+
+---
+dashboard/
+└── Deloitte_Task_1_Machine_Performance_Analysis.twb
+images/
+└── dashboard_screenshot.png
+data/
+└── telemetry_data.json
+
+
+
+# Gender Pay Equality Analysis – Forensic Technology Task_2
 
 🕵️‍♂️ Project Overview
 
