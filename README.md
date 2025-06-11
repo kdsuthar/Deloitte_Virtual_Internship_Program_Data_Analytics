@@ -49,7 +49,7 @@ dashboard/
 images/
 └── dashboard_screenshot.png
 data/
-└── telemetry_data.json
+└── telemetry_data.json # provided upon request. 
 
 
 
